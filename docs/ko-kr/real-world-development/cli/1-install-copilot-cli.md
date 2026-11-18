@@ -79,7 +79,7 @@ Copilot CLI를 처음 실행하면 GitHub 계정으로 인증하라는 메시지
 3. 다음 질문을 입력해 모든 항목이 작동하는지 확인합니다.
 
    ```plaintext
-   이 프로젝트에서 중요한 파일은 무엇인가요?
+   이 프로젝트의 주요 파일은 무엇인가요?
    ```
 
 4. 응답을 읽고 Copilot이 답변 전에 리포지토리를 살펴보는지 확인합니다.
@@ -87,7 +87,7 @@ Copilot CLI를 처음 실행하면 GitHub 계정으로 인증하라는 메시지
 6. Copilot에 필터링 이슈를 찾아 달라고 요청합니다.
 
    ```plaintext
-   GitHub MCP를 사용해 이 리포지토리에서 "Allow users to filter games by category and publisher"라는 제목의 이슈를 찾아 주세요. URL과 간단한 요약을 알려 주세요. 아무것도 변경하지 마세요.
+   GitHub MCP를 사용해 이 리포지토리에서 "Allow users to filter games by category and publisher."라는 제목의 이슈를 찾아 주세요. URL과 짧은 요약을 알려 주세요. 아무것도 변경하지 마세요.
    ```
 
 7. URL을 열어 이슈를 읽습니다. 간단한 변경을 완료한 뒤 이 이슈를 사용합니다.
